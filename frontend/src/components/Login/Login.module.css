@@ -1,0 +1,16 @@
+.containerLogin {
+    margin-top: 50px;
+}
+.containerLoginDos {
+    width:70%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding:20px;
+    border-radius:10px;
+}
+.title {
+    text-align:center;
+}
+.formLabel {
+    text-align: left;
+}

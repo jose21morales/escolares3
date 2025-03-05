@@ -1,0 +1,17 @@
+.titleCart {
+    width:80%;
+    margin: 0 auto;
+}
+.table {
+    width:80%; margin: 0 auto;
+}
+.td {
+    text-align: right;
+}
+.form {
+    width:70%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding:20px;
+    border-radius:10px;
+}
